@@ -61,7 +61,7 @@ python src/inference.py --input data/test.csv
 ## 📊 Methodology
 
 <p align="center">
-  <img src="method.png" alt="Methodology Diagram" width="600px">
+  <img src="method.png" alt="Methodology Diagram" width="900px">
 </p>
 
 Our approach combines **lightweight AI algorithms with cross-domain monitoring** to forecast application performance in containerized environments efficiently. The methodology demonstrates that **generic system metrics** can accurately estimate application behavior, reducing monitoring overhead.
