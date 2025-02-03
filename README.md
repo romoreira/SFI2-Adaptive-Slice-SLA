@@ -22,21 +22,8 @@ This paper proposes an alternative hypothesis: **effective insight into the appl
 
 ## 📂 Repository Structure
 
-* Consider change the branche
+* consider changing repo branche.
 
-```
-📁 project-root
-│── 📜 README.md              # Repository documentation
-│── 📜 requirements.txt       # Project dependencies
-│── 📂 src/                   # Source code
-│   │── model_training.py     # ML model training
-│   │── data_processing.py    # Data preprocessing
-│   │── inference.py          # Model inference
-│── 📂 data/                  # Dataset used in the experiments
-│── 📂 figures/               # Figures and plots from the paper
-│── 📂 notebooks/             # Jupyter Notebooks for exploration
-│── 📜 LICENSE                # Project license
-```
 
 ---
 
@@ -74,7 +61,7 @@ python src/inference.py --input data/test.csv
 ## 📊 Methodology
 
 <p align="center">
-  <img src="figures/methodology_diagram.png" alt="Methodology Diagram" width="600px">
+  <img src="method.png" alt="Methodology Diagram" width="600px">
 </p>
 
 Our approach combines **lightweight AI algorithms with cross-domain monitoring** to forecast application performance in containerized environments efficiently. The methodology demonstrates that **generic system metrics** can accurately estimate application behavior, reducing monitoring overhead.
