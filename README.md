@@ -81,12 +81,21 @@ Our approach combines **lightweight AI algorithms with cross-domain monitoring**
 If you find this repository useful for your research, please cite our work:
 
 ```
-@article{your_paper_2025,
-  title={Estimating Application Performance in Container-Based Environments: A Cross-Domain Monitoring Approach},
-  author={Marcus V. Diniz dos Reis and Rodrigo Moreira and Larissa F. Rodrigues Moreira and Flávio de Oliveira Silva},
-  journal={AINA 2025 - The 39th International Conference on Advanced Information Networking and Applications},
-  year={2025}
+@INPROCEEDINGS{dosR2504:Estimating,
+AUTHOR="Marcus {dos Reis} and Rodrigo Moreira and Larissa {Rodrigues Moreira} and
+Flavio de Oliveira Silva",
+TITLE="Estimating Application Performance in Container-based Environments: A
+{Cross-Domain} Monitoring Approach",
+BOOKTITLE="The 39-th International Conference on Advanced Information Networking and
+Applications 2025 (AINA-2025)",
+ADDRESS="Barcelona, Spain",
+DAYS=7,
+MONTH=apr,
+YEAR=2025,
+KEYWORDS="Machine Learning; Distributed Application; Quality of Experience; Key
+Performance Indicator; Network; Container"
 }
+
 ```
 
 ---
